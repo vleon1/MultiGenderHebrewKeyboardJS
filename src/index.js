@@ -17,8 +17,8 @@ let keyboard = new Keyboard({
     shift_default: [
       "{switch}",
       "~ ! @ # $ % ^ & * ( ) _ + {bksp}",
-      "{tab} / ' \u05ce \u05e4 \u05ed \u05cd \u05ca \u05cb \u05cb \u05e4 { } |",
-      "{lock} \u05e9 \u05d3 \u05d2 \u05e4 \u05cf \u05ca \u05ec \u05dc \u05da : \" {enter}",
+      "{tab} / ' \u05ce \u05c9 \u05ed \u05cd \u05ca \u05cb \u05cb \u05e4 { } |",
+      "{lock} \u05e9 \u05d3 \u05d2 \u05c9 \u05cf \u05ca \u05ec \u05dc \u05da : \" {enter}",
       "{shift} \u05ee \u05eb \u05cf \u05cc \u05e0 \u05de \u05e6 < > ? {shift}",
       "{space}"
     ],
